@@ -1,10 +1,10 @@
 # xmind-help
 
-## X-Mind Help 英語版(オリジナル)
+## XMind Help 英語版(オリジナル)
 
 http://nakadanobuhiro.github.io/en/
 
-## X-Mind Help 日本語版
+## XMind Help 日本語版
 
 http://nakadanobuhiro.github.io/jp/
 
